@@ -11,4 +11,4 @@ def bouncing_ball(h, bounce, window):
         print(c)
     else:
         print(-1)
-bouncing_ball(3,1, 1.5)
+bouncing_ball(3,.66, 1.5)
