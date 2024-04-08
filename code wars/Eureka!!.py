@@ -11,4 +11,4 @@ def sum_dig_pow(a,b):
         if(sum==i):
             result.append(i)
     print(result) 
-sum_dig_pow(1,1000)      
+sum_dig_pow(1,1000)       
